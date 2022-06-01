@@ -88,6 +88,7 @@ sleep $s
 apt install hashcat
 
 git clone https://github.com/brannondorsey/naive-hashcat
+# for instructions see https://github.com/brannondorsey/naive-hashcat 
 
 git clone https://github.com/danielmiessler/SecLists
 
